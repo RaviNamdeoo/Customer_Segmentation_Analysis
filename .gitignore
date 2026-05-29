@@ -1,0 +1,13 @@
+# Virtual Environment
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# # Data files (optional - if files are too large)
+# *.csv
+# *.pkl

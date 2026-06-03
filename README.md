@@ -93,3 +93,4 @@ Try the deployed app here: **[customer-segmentation-analysis-ravi.streamlit.app]
  
 **Ravi Namdeo**
 - GitHub: [@RaviNamdeoo](https://github.com/RaviNamdeoo)
+- LinkedIn: [@RaviNamdeo](https://www.linkedin.com/in/ravinamdeo/)

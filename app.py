@@ -30,10 +30,10 @@ if st.button('Predict Segment'):
     cluster = kmeans.predict(input_scaled)[0]
 
     st.success(f'Predicted Segment: {cluster}')
-    st.write("""Cluster 0: 'Low Income Low Spenders'\n
-                Cluster 1: 'Low Income Least Spenders'\n
-                Cluster 2: 'High Age Mid Spenders'\n
-                Cluster 3: 'Mid Age High Spenders'\n
-                Cluster 4: 'High Income Premium Buyers'\n
-                Cluster 5: 'High Age High Spenders
+    st.write("""Segment 0: 'Low Income Low Spenders'\n
+                Segment 1: 'Low Income Least Spenders'\n
+                Segment 2: 'High Age Mid Spenders'\n
+                Segment 3: 'Mid Age High Spenders'\n
+                Segment 4: 'High Income Premium Buyers'\n
+                Segment 5: 'High Age High Spenders
              """)
